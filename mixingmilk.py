@@ -48,3 +48,5 @@ for c in finalstate:
     outFile.write('\n')
 
 outFile.close()
+
+# All test cases correct.
